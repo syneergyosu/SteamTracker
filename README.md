@@ -26,3 +26,5 @@ A lightweight monitoring tool and database designed to log suspicious Steam prof
 
 ```
 In development and anything can be changed.
+
+<img width="942" height="629" alt="Screenshot 2026-09-08 112919" src="https://github.com/user-attachments/assets/480f04de-4988-4f9b-bfa1-2f03a0f6c496" />
