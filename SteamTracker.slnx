@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="SteamTracker/SteamTracker.vcxproj" Id="7e6357b8-e9c4-4554-86bc-3d35395ef7ae" />
+</Solution>

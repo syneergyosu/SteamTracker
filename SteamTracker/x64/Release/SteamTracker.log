@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\leolu\Documents\SteamTracker\main.cpp(580,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leolu\Documents\SteamTracker\main.cpp(582,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\leolu\Documents\SteamTracker\main.cpp(796,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SteamTracker.vcxproj -> C:\Users\leolu\Documents\SteamTracker\x64\Release\SteamTracker.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
