@@ -3,7 +3,7 @@ from discord.ext import tasks
 import json
 import os
 
-TOKEN = 'MTU0MzI3Njg1NTQ0MjkzNTgwOA.G_fz5T.6sVCGG64yDbjNuWRrs5IZQ1cJBgI0UKHNZSR5I'
+TOKEN = ''
 CHANNEL_NAME = 'steam-player-tracker'
 CHANNEL_ID = 1543627990380978244
 
