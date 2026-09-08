@@ -84,7 +84,7 @@ std::atomic<int> g_ActiveFetches(0);
 std::mutex g_D3DMutex;
 time_t g_LastFileModTime = 0;
 
-char g_ApiKeyBuffer[128] = "DC13DD1969A48C1F18DC43129B206F67";
+char g_ApiKeyBuffer[128] = "";
 char g_SteamIdInput[64] = "";
 char g_SearchBuffer[128] = "";
 
